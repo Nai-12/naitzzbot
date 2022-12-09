@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6289667440607@s.whatsapp.net"],
+  "ownerName": ["Naitzz"],
+  "botName": "Nai Bot",
+  "sessionName": "rtwone-md",
+  "pathimg": "./media/naitzz.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
